@@ -1,0 +1,12 @@
+.square {
+  border: none;
+  background-color: #e91e63;
+  color: #fff;
+  border-radius: 5px;
+  padding: 0.5em;
+  outline: none;
+  cursor: pointer;
+}
+.square:disabled {
+  background: #b6b6b6;
+}
