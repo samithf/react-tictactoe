@@ -3,7 +3,7 @@ import { XIcon } from "@heroicons/react/outline";
 import { CheckIcon } from "@heroicons/react/outline";
 import { useAppContext } from "../Store";
 import { useEffect, useState } from "react";
-import anime from "animejs/lib/anime.es.js";
+// import anime from "animejs/lib/anime.es.js";
 
 // import DrawSVG from "react-svg-drawing";
 
